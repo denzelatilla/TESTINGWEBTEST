@@ -35,8 +35,7 @@ http://192.168.101.110:8000/ubk
     </script>
 </head>
 <body>
-    <h1>Silakan Pilih Website</h1>
-    <a class="button" href="#" onclick="openWindow('http://192.168.101.110:8000/ubk')">Buka Website 1</a><br>
-    <a class="button" href="#" onclick="openWindow('https://chatgpt.com')">Buka ChatGPT (Window Baru)</a>
+    <a class="button" href="http://192.168.101.110:8000/ubk">Website 1</a><br>
+    <a class="button" href="#" onclick="openWindow('https://chatgpt.com')">Buka ChatGPT</a>
 </body>
 </html>
